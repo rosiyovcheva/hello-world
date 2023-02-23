@@ -7,4 +7,5 @@ Pitieto opredelq bitieto
 ### header 3
 | head 1 | head 2 |
 -------------------
-| 1    | 2 | 
+|1|2| 
+-----
